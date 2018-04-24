@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Orion Denner"
   avatar           : "profile.png"
-  bio              : |
-    Data Science
-    Science of Science
-    Economics of Innovation
+  bio              : "Data Science
 
+    Science of Science
+
+    Economics of Innovation"
   location         : "Lausanne, VD, CH"
   employer         : "EPFL"
   googlescholar    : "http://scholar.google.com/citations?user=XG5wJWcAAAAJ"
