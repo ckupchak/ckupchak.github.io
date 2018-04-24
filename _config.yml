@@ -80,7 +80,9 @@ analytics:
 author:
   name             : "Orion Penner"
   avatar           : "profile.png"
-  bio              : "Data Science &nbsp; Science of Science \n Economics of Innovation"
+  bio              : |Data Science
+  Science of Science
+  Economics of Innovation
   location         : "Lausanne, VD, CH"
   employer         : "EPFL"
   googlescholar    : "http://scholar.google.com/citations?user=XG5wJWcAAAAJ"
