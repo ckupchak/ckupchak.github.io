@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-6.2017 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
+6.2017 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
 
 Employment
 ======
