@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Orion Penner"
   avatar           : "profile.png"
-  bio              : 'Data Science </br> Science of Science </br> Economics of Innovation'
+  bio              : 'Data Science </br> Economics of Innovation </br> Science of Science'
   location         : "Lausanne, VD, CH"
   employer         : "EPFL"
   googlescholar    : "http://scholar.google.com/citations?user=XG5wJWcAAAAJ"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  "http://orcid.org/0000-0003-3382-9491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
