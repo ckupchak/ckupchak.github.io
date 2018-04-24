@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Orion Penner / Site Title"
+title                    : "Orion Penner"
 title_separator          : "-"
 name                     : &name "Orion Penner"
 description              : &description "personal description"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Orion Penner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Data Science. Science of Science. Economics of Innovation"
+  location         : "Lausanne, VD, CH"
+  employer         : "EPFL"
+  googlescholar    : "http://scholar.google.com/citations?user=XG5wJWcAAAAJ"
+  email            : "orion.penner@epfl.ch"
   uri              :
   bitbucket        :
   codepen          :
