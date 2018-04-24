@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+| 6.2017 - Present 	|                     	| Ambizione Fellow. Chair of Innovation and IP Policy. EPFL. 	|
+|------------------	|:-------------------:	|------------------------------------------------------------	|
+Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
+
+Employment
+======
+
+
 Education
 ======
 * B.S. in Github, Github University, 2012
