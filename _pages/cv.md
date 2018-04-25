@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-##Current Position
+## Current Position
 
 6.2017 - Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
 
-##Employment
+## Employment
 
 6.2015 - 5.2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow. Chair of Innovation and IP Policy. EPFL
 
