@@ -13,7 +13,7 @@ I'm always happy to hear of new research, teaching, or consulting opportunities.
 
 Likewise, I am happy to be of service to others when it fits within the constraints of my available time and effort.
 
-Please do no hesitate to be in touch by one of the following means.
+Please do not hesitate to be in touch by one of the following means.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My email is [orion.penner [at] epfl.ch](mailto:orion.penner@epfl.ch).
 
