@@ -110,14 +110,6 @@ a {
     @extend %tab-focus;
   }
 
-  &:link {
-    color: blue;
-  }
-
-  &:visited {
-    color: blue;
-  }
-
   &:hover,
   &:active {
     outline: 0;
