@@ -21,8 +21,8 @@ redirect_from:
 
 6.2012 - 5.2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor. Laboratory of Innovation Management and Economics. IMT Lucca
 
-Education
-======
+## Education
+
 2007 - 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Complexy Systems, University of Calgary.
 
 2004 - 2006 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.A. in Physics, Boston University.
