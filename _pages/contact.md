@@ -3,6 +3,7 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
+urlcolor: blue
 redirect_from:
   - /null
 ---
