@@ -11,13 +11,13 @@ redirect_from:
 
 Current Position
 ======
-6.2017 - Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
+6.2017 - Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ambizione Fellow. Chair of Innovation and IP Policy. EPFL.
 
 Employment
 ======
 6.2015 - 5.2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow. Chair of Innovation and IP Policy. EPFL
 
-6.2015 - 12.2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Professor. Laboratory of Innovation Management and Economics. IMT Lucca
+6.2015 - 12.2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Professor. Laboratory of Innovation Management and Economics. IMT Lucca
 
 6.2012 - 5.2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor. Laboratory of Innovation Management and Economics. IMT Lucca
 
