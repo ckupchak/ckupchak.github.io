@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-If something has caught your eye and you would like to get in touch concerning my research, teaching, or consulting activities please do so by one of the following means.
+I'm always happy to hear of new research, teaching, or consulting opportunities.
+
+Likewise, if you feel I may be of some service to you.
+
+Please be in touch by one of the following means.
 
 My email is [orion.penner [at] epfl.ch](mailto:orion.penner@epfl.ch).
 
