@@ -29,16 +29,19 @@ redirect_from:
 
 2000 - 2004  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba.
 
+## Fellowships and Research Grants
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Teaching Activities
+
+## Supervision of Graduate Students
+
+## Presentations
+
+## Review
+
+## Service and Leadership
+
+
 
 Publications
 ======
@@ -57,7 +60,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
