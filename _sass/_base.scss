@@ -114,6 +114,10 @@ a {
     color: blue;
   }
 
+  &:visited {
+    color: blue;
+  }
+
   &:hover,
   &:active {
     outline: 0;
