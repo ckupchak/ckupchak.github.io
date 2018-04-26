@@ -27,4 +27,6 @@ Please do not hesitate to be in touch by one of the following means.
       CH-1015 Lausanne
       Switzerland
 
-<p>asdf </br> fdsa </p>
+<p>asdf
+jkl;
+fdsa </p>
