@@ -20,6 +20,7 @@ Please do not hesitate to be in touch by one of the following means.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My physical location on the EPFL campus is building Odyssea, 2<sup>nd</sup> floor, room 19. [Map](http://map.epfl.ch/theme/generalite_thm_plan_public?dim_floor=2&amp;lang=en&amp;dim_lang=en&amp;baselayer_ref=grp_backgrounds&amp;map_x=533462&amp;map_y=152246&amp;map_zoom=14).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My post address is:<br>
+<p style="text-align: center;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 EPFL CDM ITPP IIPP<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,4 +30,4 @@ Station 5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 CH-1015 Lausanne<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Switzerland
+Switzerland</p>
