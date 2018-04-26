@@ -21,10 +21,12 @@ Please do not hesitate to be in touch by one of the following means.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My post address is:
 
-      EPFL CDM ITPP IIPP
+      EPFL CDM ITPP IIPP<br>
       ODY 2 19 (Odyssea)
       Station 5
       CH-1015 Lausanne
       Switzerland
 
 asdf<br>fdsa<br>jkl;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EPFL CDM ITPP IIPP<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ODY 2 19 (Odyssea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Station 5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-1015 Lausanne<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Switzerland
