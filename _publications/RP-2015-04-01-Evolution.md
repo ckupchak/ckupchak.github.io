@@ -1,7 +1,7 @@
 ---
 title: "The evolution of networks of innovators within and across borders: Evidence from patent data"
 collection: publications
-permalink: /publication/RP-2015-Evolution
+permalink: /publication/RP-2015-04-01-Evolution
 excerpt: 'This paper examines...'
 date: 2015-04-01
 venue: 'Research Policy'
