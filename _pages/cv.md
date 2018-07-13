@@ -29,17 +29,17 @@ redirect_from:
 
 2000 - 2004  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba.
 
-## Fellowships and Research Grants
+[comment]: <> ## Fellowships and Research Grants
 
-## Teaching Activities
+[comment]: <> ## Teaching Activities
 
-## Supervision of Graduate Students
+[comment]: <> ## Supervision of Graduate Students
 
-## Presentations
+[comment]: <> ## Presentations
 
-## Review
+[comment]: <> ## Review
 
-## Service and Leadership
+[comment]: <> ## Service and Leadership
 
 
 
