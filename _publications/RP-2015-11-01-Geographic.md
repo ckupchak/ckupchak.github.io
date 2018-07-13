@@ -6,4 +6,4 @@ date: 2015-11-01
 venue: 'Research Policy'
 citation: 'R. Catini, D. Karamshuk, O. Penner, M. Riccaboni (2015) &quot;Identifying geographic clusters: A network analytics approach&quot; <i>Research Policy</i>. 44(9)'
 ---
-The paper can be downloaded [here]()
+Can be downloaded [here]()
