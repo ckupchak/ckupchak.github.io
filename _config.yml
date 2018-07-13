@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Orion Penner"
-  avatar           : "images/profilepic.jpeg"
+  avatar           : "profilepic.jpeg"
   bio              : 'Data Science </br> Economics of Innovation </br> Science of Science'
   location         : "Lausanne, VD, CH"
   employer         : "EPFL"
