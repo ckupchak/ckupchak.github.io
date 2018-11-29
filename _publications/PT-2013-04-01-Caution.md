@@ -1,5 +1,5 @@
 ---
-title: "The case for caution in predicting scientists' future impact"
+title: "The case for caution in predicting scientistsˈ future impact"
 collection: publications
 permalink: /publication/PT-2013-4-Caution
 date: 2013-04-01
