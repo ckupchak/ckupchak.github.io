@@ -15,3 +15,5 @@ I use the tools of data science and machine learning to tackle problems in the E
 My career has taken me through many disciplines and fields (Physics, Complex Systems, Bioinformatics and Economics) and across many locations (Manitoba, Boston University, University of Calgary, IMT Lucca and now EPFL). Along the way I have many great mentors and collaborators from whom I have learned a great deal about science, and life.
 
 In addition to my research, I teach, mostly courses on analytics and data science aimed at students studying business or a social science. I have also been known to consult on the side, particularily in the banking industry.
+
+My work is primarily funded by the Swiss National Science Foundation through an Ambizone Grant. Parts of my research are also funded by the Swiss Network for International Studies.
