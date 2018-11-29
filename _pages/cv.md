@@ -29,8 +29,8 @@ redirect_from:
 
 2000 - 2004  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba
 
-# (Publications)
-# (======)
-# (  <ul>{% for post in site.publications %})
-# (    {% include archive-single-cv.html %})
-# (  {% endfor %}</ul>)
+[comment]: # (Publications)
+[comment]: # (======)
+[comment]: # (  <ul>{% for post in site.publications %})
+[comment]: # (    {% include archive-single-cv.html %})
+[comment]: # (  {% endfor %}</ul>)
