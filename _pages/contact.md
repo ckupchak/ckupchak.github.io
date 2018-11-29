@@ -13,13 +13,13 @@ I'm always happy to hear of new research, teaching, or consulting opportunities.
 
 Likewise, I am happy to be of service to others when it fits within the constraints of my available time and effort.
 
-Please do not hesitate to be in touch by one of the following means.
+So please do not hesitate to be in touch.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My email is [orion.penner [at] epfl.ch](mailto:orion.penner@epfl.ch).
+My email is [orion.penner [at] epfl.ch](mailto:orion.penner@epfl.ch).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My physical location on the EPFL campus is building Odyssea, 2<sup>nd</sup> floor, room 19. [Map](http://map.epfl.ch/theme/generalite_thm_plan_public?dim_floor=2&amp;lang=en&amp;dim_lang=en&amp;baselayer_ref=grp_backgrounds&amp;map_x=533462&amp;map_y=152246&amp;map_zoom=14).
+My physical location on the EPFL campus is building Odyssea, 2<sup>nd</sup> floor, room 19. [Map](http://map.epfl.ch/theme/generalite_thm_plan_public?dim_floor=2&amp;lang=en&amp;dim_lang=en&amp;baselayer_ref=grp_backgrounds&amp;map_x=533462&amp;map_y=152246&amp;map_zoom=14).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My post address is:
+My post address is:
 <p style="text-align: center;">
 EPFL CDM ITPP IIPP<br>
 ODY 2 19<br>
