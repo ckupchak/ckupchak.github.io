@@ -28,9 +28,3 @@ redirect_from:
 2004 - 2006 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.A. in Physics, Boston University
 
 2000 - 2004  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba
-
-[comment]: # (Publications)
-[comment]: # (======)
-[comment]: # (  <ul>{% for post in site.publications %})
-[comment]: # (    {% include archive-single-cv.html %})
-[comment]: # (  {% endfor %}</ul>)
