@@ -71,7 +71,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal"  
+  provider               : "google-gtag"  
   google:
     tracking_id          :"UA-130563246-1"
 ## false (default), "google", "google-universal", "custom", "google-gtag"
