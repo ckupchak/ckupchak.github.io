@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <a href="{{https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao}}"style="color:blue"> Google Scholar</a>.
+You can also find my articles on <a href="https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao" style="color:blue">Google Scholar</a>.
 
 {% include base_path %}
 C. Kupchak, J. Erskine, D.G. England,  B. J. Sussman,
