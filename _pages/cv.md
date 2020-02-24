@@ -11,20 +11,20 @@ redirect_from:
 
 ## Current Position
 
-6.2017 - Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ambizione Fellow. Chair of Innovation and IP Policy. EPFL
+11/2019 - Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assitant Professor. Department of Electronics. Carleton University 
 
 ## Employment
 
-6.2015 - 5.2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow. Chair of Innovation and IP Policy. EPFL
+09/2018 - 10/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate. Joint Centre for Extreme Photonics. University of Ottawa. Lundeen Lab
 
-6.2015 - 12.2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Professor. Laboratory of Innovation Management and Economics. IMT Lucca
+09/2015 - 08.2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow.  National Research Council of Canada/UOttawa
 
-6.2012 - 5.2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor. Laboratory of Innovation Management and Economics. IMT Lucca
+06/2013 - 06/2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Associate. Department of Physics and Astronomy. Stony Brook University, USA
 
 ## Education
 
-2007 - 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Complex Systems, University of Calgary
+2007 - 2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. Quantum Optics, University of Calgary
 
-2004 - 2006 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.A. in Physics, Boston University
+2005 - 2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.A. in Medical Biophysics, Western University
 
-2000 - 2004  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba
+2000 - 2005  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Hns) in Physics, University of Manitoba
