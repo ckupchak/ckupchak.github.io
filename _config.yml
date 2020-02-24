@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Orion Penner"
+title                    : "Carleton University Quantum Information Technology Lab"
 title_separator          : "-"
-name                     : &name "Orion Penner"
+name                     : &name "Connor Kupchak"
 description              : &description "Ambizione Fellow at EPFL"
-url                      : http://orionpenner.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://CUQIT.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "openner/openner.github.io"
+repository               : "ckupchak/ckupchak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "OrionPenner"
+  username               : &twitter "ConnorKupchak"
 facebook:
   username               :
   app_id                 :
@@ -70,21 +70,21 @@ social:
 
 
 # Analytics
-analytics:
-  provider               : "google-gtag"  
-  google:
-    tracking_id          : "UA-130563246-1"
+#analytics:
+#  provider               : "google-gtag"  
+#  google:
+#    tracking_id          : "UA-130563246-1"
 # false (default), "google", "google-universal", "custom", "google-gtag"
 
 # Site Author
 author:
-  name             : "Orion Penner"
+  name             : "Connor kupchak"
   avatar           : "profilepic.jpeg"
-  bio              : 'Data Science </br> Economics of Innovation </br> Science of Science'
-  location         : "Lausanne, VD, CH"
-  employer         : "EPFL"
-  googlescholar    : "http://scholar.google.com/citations?user=XG5wJWcAAAAJ"
-  email            : "orion.penner@epfl.ch"
+  bio              : 'Assitant Professor </br> Department of Electronics </br> Quantum Information Technology'
+  location         : "Ottawa, Ontario, Canada"
+  employer         : "Carleton University"
+  googlescholar    : "https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao"
+  email            : "connor.kupchak@carleton.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "openner"
+  github           : #"openner"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "orion-penner"
-  orcid            :  "http://orcid.org/0000-0003-3382-9491"
+  linkedin         :  "connor-kupchak"
+  orcid            :  #"http://orcid.org/0000-0003-3382-9491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "OrionPenner"
+  twitter          : "ConnorKupchak"
   vine             :
   weibo            :
   xing             :
