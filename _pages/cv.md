@@ -15,11 +15,11 @@ redirect_from:
 
 ## Employment
 
-09/2018 - 10/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate. Joint Centre for Extreme Photonics. University of Ottawa. Lundeen Lab
+09/2018 - 10/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate - Joint Centre for Extreme Photonics. University of Ottawa
 
-09/2015 - 08.2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow.  National Research Council of Canada/UOttawa
+09/2015 - 08/2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow - National Research Council of Canada/UOttawa
 
-06/2013 - 06/2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Associate. Department of Physics and Astronomy. Stony Brook University, USA
+06/2013 - 06/2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Associate - Department of Physics and Astronomy, Stony Brook University, USA
 
 ## Education
 
