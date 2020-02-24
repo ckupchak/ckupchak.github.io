@@ -79,7 +79,7 @@ social:
 # Site Author
 author:
   name             : "Connor kupchak"
-  avatar           : "profilepic.jpeg"
+  avatar           : "Connor Kupchak Photo.jpeg"
   bio              : 'Assitant Professor </br> Department of Electronics </br> Quantum Information Technology'
   location         : "Ottawa, Ontario, Canada"
   employer         : "Carleton University"
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"openner"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :  "connor-kupchak"
-  orcid            :  #"http://orcid.org/0000-0003-3382-9491"
+  orcid            :  
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "ConnorKupchak"
