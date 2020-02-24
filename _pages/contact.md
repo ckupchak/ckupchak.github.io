@@ -13,11 +13,11 @@ redirect_from:
 
 
 Office:
-Room 3032 Minto Case Building
+3032 Minto Case Building
 
-Mailing Address
+Mailing Address:
 <p style="text-align: center;">
-Department of Electronics, Carleton University<br>
+Department of Electronics<br>
 1125 Colonel By Drive<br>
 Ottawa, ON<br>
 K1S 5B6e<br>
