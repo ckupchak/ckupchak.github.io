@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-testing
+
+  You can also find my articles on <u><a href="{{https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
+
 {% include base_path %}
 C. Kupchak, J. Erskine, D.G. England,  B. J. Sussman,
 Terahertz-bandwidth switching of heralded single photons, Optics Letters 44, 1427-1430, 15 March 2019
