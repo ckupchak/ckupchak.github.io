@@ -13,7 +13,7 @@ C. Kupchak, J. Erskine, D.G. England,  B. J. Sussman,
 Terahertz-bandwidth switching of heralded single photons, Optics Letters 44, 1427-1430, 15 March 2019
 
 J. Erskine, D.G. England, C. Kupchak, B. J. Sussman,
-Real-time spectral characterization of a photon pair source using a chirped supercontinuum seed, Optics Letters 43, 907-910, 14 February 2018
+Real-time spectral characterization of a photon pair source using a chirped supercontinuum seed, <u><a href="{{https://www.osapublishing.org/ol/abstract.cfm?URI=ol-44-6-1427}}">Optics Letters 43, 907-910 (2018).</a></u>
 
 C. Kupchak, P.J. Bustard, K. Heshami, J. Erskine, M. Spanner, D.G. England, B. J. Sussman,
 Time-bin-to-polarization conversion of ultrafast photonic qubits, Physical Review A 96, 053812, 6 November 2017
