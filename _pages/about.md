@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantum Information Technology Lab at Carleton University"
+title: "Carleton University Quantum Information Technology"
 excerpt: "About"
 author_profile: true
 redirect_from: 
