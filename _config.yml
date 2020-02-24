@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carleton University Quantum Information Technology Lab"
+title                    : "CUQIT"
 title_separator          : "-"
 name                     : &name "Connor Kupchak"
 description              : &description "Assitant Professor at Carleton University"
