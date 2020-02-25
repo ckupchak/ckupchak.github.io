@@ -1,4 +1,5 @@
 ---
+layout: kupchak_default
 permalink: /
 title: "Carleton University Quantum Information Technology"
 excerpt: "About"
