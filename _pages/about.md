@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+<img src="images/KirknessFoundation.png" alt="Girl in a jacket">
+
 You have reached the webpage of the Quantum Information Technology Lab at Carleton University led by Professor Connor Kupchak.  Our research specializes in the development of powerful quantum technologies using light that have applications computing, secure communications and testing fundamental ideas in physics.  
