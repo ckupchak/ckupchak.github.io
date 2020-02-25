@@ -9,4 +9,4 @@ Spring 2020 ELEC 2501
 
 <!--  Fall   2020 ELEC 3908" -->
 
-<img src="images/0.jpeg" alt="Girl in a jacket">
+<img src="/images/0.jpeg" alt="Girl in a jacket">
