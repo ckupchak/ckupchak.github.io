@@ -1,5 +1,5 @@
 ---
-layout: kupchak_default
+layout: compress
 title: "News"
 permalink: /news/
 author_profile: true
