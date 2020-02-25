@@ -1,10 +1,10 @@
 ---
-layout: compress
+layout: kupchak_default
 title: "News"
 permalink: /news/
 author_profile: true
 ---
-<img src="0.jpeg" alt="Girl in a jacket">
+<img src="images/0.jpeg" alt="Girl in a jacket">
 
 ## New Website
 
