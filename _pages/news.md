@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<img src="0.jpeg" alt="Girl in a jacket">
 
 ## New Website
 
