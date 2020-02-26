@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: kupchak_default
 title: "CV"
 permalink: /cv/
 author_profile: true
