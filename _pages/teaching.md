@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <div class="topnav">
-  <a href="#">Link</a>
+  <a href="/publications/">Publications</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
 </div>
