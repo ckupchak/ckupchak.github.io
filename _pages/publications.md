@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: kupchak_default
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -31,14 +31,14 @@ C. Kupchak, S. Rind, B. Jordaan, and E. Figueroa,
 Quantum Process Tomography of an Optically-Controlled Kerr Non-linearity, Scientific Reports 5: 16581, 20 November 2015
 
 M. Namazi,  T. Mittiga, C. Kupchak, and E. Figueroa, 
-Cascading Quantum Light-Matter Interfaces}, Physical Review A 92, 033846 24 September 2015
+Cascading Quantum Light-Matter Interfaces, Physical Review A 92, 033846 24 September 2015
 
 C. Kupchak, T. Mittiga, B. Jordaan, M. Namazi, C.  Nolleke, and E. Figueroa, 
 Room-Temperature Single-photon level Memory for Polarization States, Scientific Reports 5: 7658 (5 pp.), 7 January 2015
 
 
-R. Kumar, E. Barrios, C. Kupchak, and A. I. \ Lvovsky, 
-Experimental characterization of bosonic photon creation and annihilation operators} , Physical Review Letters 110: 130403 (5 pp.), 25 March 2013 
+R. Kumar, E. Barrios, C. Kupchak, and A. I. Lvovsky, 
+Experimental characterization of bosonic photon creation and annihilation operators, Physical Review Letters 110: 130403 (5 pp.), 25 March 2013 
 
 R. Thomas, C. Kupchak, G. S. Agarwal and A. I. Lvovsky, 
 Observation of electromagnetically induced transparency in evanescent fields, Optics Express 21: 6880-6888, 25 March 2013 
