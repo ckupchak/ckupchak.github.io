@@ -16,7 +16,8 @@ E. Scott Goudreau, Connor Kupchak, Benjamin J. Sussman, Robert W. Boyd, Jeff S. 
 
 {% include base_path %}
 C. Kupchak, J. Erskine, D.G. England,  B. J. Sussman,
-<i>Terahertz-bandwidth switching of heralded single photons</i>, Optics Letters 44,</b> 1427-1430, 15 March 2019
+<i>Terahertz-bandwidth switching of heralded single photons</i>, a href="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-6-1427" style="color:blue">Optics Letters <b>44,</b> 1427-1430, (2019).</a>
+
 
 J. Erskine, D.G. England, C. Kupchak, B. J. Sussman,
 <i>Real-time spectral characterization of a photon pair source using a chirped supercontinuum seed</i>, <a href="https://doi.org/10.1364/OL.44.001427" style="color:blue">Optics Letters <b>43,</b> 907-910 (2018).</a>
@@ -29,13 +30,13 @@ M. Namazi, C. Kupchak, B. Jordaan, R. Shahrokhshahi, E. Figueroa,
 
 
 P.J. Bustard, D.G. England, K. Heshami, C. Kupchak, B.J. Sussman,
-<i>Quantum frequency conversion with ultra-broadband tuning in a Raman memory</i>, Physical Review A <b>95,</b> 053816 (2017)
+<i>Quantum frequency conversion with ultra-broadband tuning in a Raman memory</i>, Physical Review A <b>95,</b> 053816 (2017).
   
 P.J. Bustard, D.G. England, K. Heshami, C. Kupchak, B.J. Sussman,
-<i>Reducing noise in a Raman quantum memory</i>, Optics Letters <b>41,</b> 5055-5058, 1 November 2016
+<i>Reducing noise in a Raman quantum memory</i>, Optics Letters <b>41,</b> 5055-5058, (2016).
 
 C. Kupchak, S. Rind, B. Jordaan, and E. Figueroa, 
-<i>Quantum Process Tomography of an Optically-Controlled Kerr Non-linearity</i>, <a href="https://www.nature.com/articles/srep16581" style="color:blue">Scientific Reports <b>5</b> 16581 (2015).</a>
+<i>Quantum Process Tomography of an Optically-Controlled Kerr Non-linearity</i>, <a href="https://www.nature.com/articles/srep16581" style="color:blue">Scientific Reports <b>5,</b> 16581 (2015).</a>
 
 
 M. Namazi,  T. Mittiga, C. Kupchak, and E. Figueroa, 
@@ -43,11 +44,11 @@ M. Namazi,  T. Mittiga, C. Kupchak, and E. Figueroa,
 
 
 C. Kupchak, T. Mittiga, B. Jordaan, M. Namazi, C.  Nolleke, and E. Figueroa, 
-<i>Room-Temperature Single-photon level Memory for Polarization States</i>, <a href="https://www.nature.com/articles/srep07658" style="color:blue">Scientific Reports <b>5</b> 7658 (2015).</a>
+<i>Room-Temperature Single-photon level Memory for Polarization States</i>, <a href="https://www.nature.com/articles/srep07658" style="color:blue">Scientific Reports <b>5,</b> 7658 (2015).</a>
 
 
 R. Kumar, E. Barrios, C. Kupchak, and A. I. Lvovsky, 
-<i>Experimental characterization of bosonic photon creation and annihilation operators</i>, Physical Review Letters <b>110,</b> 130403 (2013) 
+<i>Experimental characterization of bosonic photon creation and annihilation operators</i>, Physical Review Letters <b>110,</b> 130403 (2013). 
 
 R. Thomas, C. Kupchak, G. S. Agarwal and A. I. Lvovsky, 
 <i>Observation of electromagnetically induced transparency in evanescent fields</i>, Optics Express <b>21,</b> 6880-6888 (2013). 
