@@ -13,8 +13,8 @@ redirect_from:
 
 <div class="container">
   <img src="/images/CarletonUniversity-Campus1.jpg" alt="Carleton Campus" style="width: 100%;">
-  <div class="top-left"><b>Carleton University <br> Quantum Information Technologies <br> (CUQuIT) </b></div>
-  <div class="top-right"><img src="/images/logo-312-carleton-university.png" alt="Carleton Logo"></div>
+  <div class="top-left"><b>Carleton University <br> Quantum Information <br> Technologies (CUQuIT) </b></div>
+  <div class="top-right"><img src="/images/logo-312-carleton-university.png" alt="Carleton Logo" style="width: 100%;></div>
 </div>
 
 <div class="row">
