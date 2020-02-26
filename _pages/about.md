@@ -13,7 +13,7 @@ redirect_from:
 
 <div class="container">
   <img src="/images/CarletonUniversity-Campus1.jpg" alt="Carleton Campus" style="width: 100%;">
-  <div class="top-left">Carleton University Quantum Information Technologies (CUQuIT)  style="font-size:50px;"</div>
+  <div class="top-left"><b>Carleton University <br> Quantum Information Technologies (CUQuIT) </b></div>
   <div class="top-right"><img src="/images/logo-312-carleton-university.png" alt="Carleton Logo"></div>
 </div>
 
@@ -21,10 +21,10 @@ redirect_from:
   <div class="leftcolumn">
     <div class="card">
       <h2>Welcome</h2>
-      <p>You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak.  Our research focuses on the development of powerful quantum technologies based light that have applications in the fields of secure communication, sensing, computing. 
+      <p>You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak.  Our research focuses on the development of powerful quantum technologies based light that have applications in the fields of secure communication, sensing, computing. </p>
 
 
-This page and group are under active development, please check back regularly for updates and potential opportunities.</p>
+<p>This page and group are under active development, please check back regularly for updates and potential opportunities.</p>
       
 
       
