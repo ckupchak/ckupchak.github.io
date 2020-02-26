@@ -18,7 +18,4 @@ redirect_from:
 
 You have reached the webpage of the Quantum Information Technology Lab at Carleton University led by Professor Connor Kupchak.  Our research specializes in the development of powerful quantum technologies using light that have applications computing, secure communications and testing fundamental ideas in physics.  
 
-<a class="twitter-timeline"
-  href="https://twitter.com/ConnorKupchak">
-Tweets by @ConnorKupchak
-</a>
+<a class="twitter-timeline" href="https://twitter.com/ConnorKupchak?ref_src=twsrc%5Etfw">Tweets by ConnorKupchak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
