@@ -13,7 +13,7 @@ redirect_from:
 
 <div class="container">
   <img src="/images/ucarl08.jpg" alt="Carleton Campus" style="width: 100%;">
-  <div class="top-left">Quantum Communication Technologies</div>
+  <div class="top-left">Carleton University</br> Quantum Information Technologies (CUQuIT)</div>
 </div>
 
 <div class="row">
