@@ -10,5 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Connor Kupchak (Group Leader)
-
+<body>
+<img src="TwitterProfilePic.png" height= "75" width="235" style="float:left;"/>
+<h3 style="float:right;">The Art of Gaming</h3>
+</body>
 
