@@ -12,6 +12,6 @@ redirect_from:
 ## Connor Kupchak (Group Leader)
 <body>
 <img src="/images/TwitterProfilePic.png" height= "75" width="235" style="float:left;"/>
-[CV](/images/bio-photo-2.jpg)
+<a href="/images/TwitterProfilePic.png" style="color:blue">CV</a> 
 </body>
 
