@@ -12,7 +12,7 @@ redirect_from:
 
 
 <div class="container">
-  <img src="/images/CarletonUniversity-Campus1.jpg" alt="Carleton Campus" style="width: 100%;">
+  <img src="/images/ucarl08.jpg" alt="Carleton Campus" style="width: 100%;">
   <div class="top-left">Quantum Communication Technologies</div>
 </div>
 
