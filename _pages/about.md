@@ -16,6 +16,22 @@ redirect_from:
   <div class="top-left">Quantum Communication Technologies</div>
 </div>
 
-You have reached the webpage of the Quantum Information Technology Lab at Carleton University led by Professor Connor Kupchak.  Our research specializes in the development of powerful quantum technologies using light that have applications computing, secure communications and testing fundamental ideas in physics.  
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Welcome</h2>
+      <p>You have reached the webpage of the Quantum Information Technology Lab at Carleton University led by Professor Connor Kupchak.  Our research specializes in the development of powerful quantum technologies using light that have applications computing, secure communications and testing fundamental ideas in physics. </p>
+    </div>
+  </div>
 
+  <div class="rightcolumn">
+    <div class="card">
+
+  
 <a class="twitter-timeline" href="https://twitter.com/ConnorKupchak?ref_src=twsrc%5Etfw">Tweets by ConnorKupchak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </div>
+  </div>
+</div>
+ 
+
