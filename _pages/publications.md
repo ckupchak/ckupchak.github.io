@@ -16,7 +16,7 @@ E. Scott Goudreau, Connor Kupchak, Benjamin J. Sussman, Robert W. Boyd, Jeff S. 
 
 {% include base_path %}
 C. Kupchak, J. Erskine, D.G. England,  B. J. Sussman,
-<i>Terahertz-bandwidth switching of heralded single photons</i>, a href="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-6-1427" style="color:blue">Optics Letters <b>44,</b> 1427-1430, (2019).</a>
+<i>Terahertz-bandwidth switching of heralded single photons</i>, <a href="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-6-1427" style="color:blue">Optics Letters <b>44,</b> 1427-1430, (2019).</a>
 
 
 J. Erskine, D.G. England, C. Kupchak, B. J. Sussman,
